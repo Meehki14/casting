@@ -1,0 +1,8 @@
+# Default ignored files
+/../../casting /.idea/shelf/
+/../../casting /.idea/workspace.xml
+# Editor-based HTTP Client requests
+/../../casting /.idea/httpRequests/
+# Datasource local storage ignored files
+/../../casting /.idea/dataSources/
+/../../casting /.idea/dataSources.local.xml
